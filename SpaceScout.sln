@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceScout.Analyzer", "Spac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceScout.Bench", "SpaceScout.Bench\SpaceScout.Bench.csproj", "{74CFD711-6214-4F30-9114-51C7F6B14606}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceScout", "SpaceScout\SpaceScout.csproj", "{2EBD11EF-C0E8-41E0-AF99-C388162FDA37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{74CFD711-6214-4F30-9114-51C7F6B14606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74CFD711-6214-4F30-9114-51C7F6B14606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74CFD711-6214-4F30-9114-51C7F6B14606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBD11EF-C0E8-41E0-AF99-C388162FDA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBD11EF-C0E8-41E0-AF99-C388162FDA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBD11EF-C0E8-41E0-AF99-C388162FDA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBD11EF-C0E8-41E0-AF99-C388162FDA37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
